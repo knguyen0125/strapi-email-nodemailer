@@ -1,7 +1,7 @@
 {
-  "name": "strapi-email-nodemailer",
-  "version": "0.2.1",
-  "description": "Nodemailer provider for strapi email",
+  "name": "strapi-email-nodemailer-fork",
+  "version": "1.0.0",
+  "description": "Nodemailer provider for strapi email with attacments support",
   "homepage": "http://strapi.io",
   "keywords": [
     "email",
@@ -19,20 +19,25 @@
     "isProvider": true
   },
   "author": {
-    "email": "audiomancer@bluewin.ch",
-    "name": "audiomancer",
-    "url": "https://github.com/audiomancer"
+    "name": "Yurii Tykhomyrov",
+    "email": "yuriytihomirov@gmail.com",
+    "url": "https://github.com/yutikom"
   },
   "maintainers": [
     {
       "name": "audiomancer",
       "email": "audiomancer@bluewin.ch",
       "url": "https://github.com/audiomancer"
+    },
+    {
+      "name": "Yurii Tykhomyrov",
+      "email": "yuriytihomirov@gmail.com",
+      "url": "https://github.com/yutikom"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/audiomancer/strapi-email-nodemailer.git"
+    "url": "git://github.com/yutikom/strapi-email-nodemailer.git"
   },
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
