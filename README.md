@@ -1,4 +1,6 @@
-# strapi-email-nodemailer
+# strapi-email-nodemailer-fork
+
+Fork of "strapi-email-nodemailer" with added attacments support
 
 ## Resources
 
