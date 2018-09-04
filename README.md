@@ -1,6 +1,8 @@
 # strapi-email-nodemailer-fork
 
-Fork of "strapi-email-nodemailer" with added attacments support
+Fork of "strapi-email-nodemailer" with added attacments support.
+
+Made by [Automat-IT](https://www.automat-it.com/)
 
 ## Resources
 
