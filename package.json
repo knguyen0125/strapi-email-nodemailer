@@ -1,5 +1,5 @@
 {
-  "name": "strapi-email-nodemailer-fork",
+  "name": "strapi-provider-email-email-templates",
   "version": "1.0.1",
   "description": "Nodemailer provider for strapi email with attacments support",
   "homepage": "http://www.automat-it.com",
@@ -7,35 +7,27 @@
     "email",
     "strapi",
     "nodemailer",
-    "automat-it"
+    "email-templates"
   ],
   "directories": {
     "lib": "./lib"
   },
   "main": "./lib",
   "dependencies": {
+    "app-root-path": "^3.0.0",
+    "ejs": "^3.0.1",
+    "email-templates": "^7.0.4",
+    "lodash": "^4.17.15",
     "nodemailer": "^4.6.7"
   },
   "strapi": {
     "isProvider": true
   },
   "author": {
-    "name": "Yurii Tykhomyrov",
-    "email": "yuriytihomirov@gmail.com",
-    "url": "https://github.com/yutikom"
+    "name": "Kevin Nguyen",
+    "email": "k.nguyen0125@gmail.com",
+    "url": "https://github.com/k.nguyen0125"
   },
-  "maintainers": [
-    {
-      "name": "audiomancer",
-      "email": "audiomancer@bluewin.ch",
-      "url": "https://github.com/audiomancer"
-    },
-    {
-      "name": "Yurii Tykhomyrov",
-      "email": "yuriytihomirov@gmail.com",
-      "url": "https://github.com/yutikom"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/yutikom/strapi-email-nodemailer.git"
